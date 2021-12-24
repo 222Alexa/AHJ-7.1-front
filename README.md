@@ -38,8 +38,8 @@ P.S. Подгрузка подробного описания специальн
 
 ---
 
-![GH-Pages](https://222alexa.github.io/AHJ-7.1-front/)
+[GH-Pages](https://222alexa.github.io/AHJ-7.1-front/)
 
-![Server](https://alexa1920.herokuapp.com/)
+[Server](https://alexa1920.herokuapp.com/)
 
 [![Build status](https://ci.appveyor.com/api/projects/status/djm13ndhtri3rfel/branch/main?svg=true)](https://ci.appveyor.com/project/222Alexa44925/ahj-7-1-front/branch/main)
